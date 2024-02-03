@@ -16,15 +16,17 @@
 
 5.Side : side effects associated with drug
 
-EaseOfUse : 5 star rating
+6.EaseOfUse : 5 star rating
 
-Effectiveness : 5 star rating
+7.Effectiveness : 5 star rating
 
-Satisfaction : 5 star rating
+8.Satisfaction : 5 star rating
 
 9.Date : date of review entry
 
 10.UsefulCount: number of users who found review useful.
+
+
 11.Age : age group range of user
 
-Sex : gender of user
+12.Sex : gender of user
